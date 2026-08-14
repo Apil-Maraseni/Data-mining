@@ -1,0 +1,361 @@
+Year,Month,Branch,Product,Units_Sold,Unit_Price_NPR,Revenue_NPR
+2025,Jan,Koteshwor,Laptop,220,90000,19800000
+2025,Feb,Koteshwor,Laptop,214,90000,19260000
+2025,Mar,Koteshwor,Laptop,260,90000,23400000
+2025,Apr,Koteshwor,Laptop,230,90000,20700000
+2025,May,Koteshwor,Laptop,228,90000,20520000
+2025,Jun,Koteshwor,Laptop,227,90000,20430000
+2025,Jul,Koteshwor,Laptop,221,90000,19890000
+2025,Aug,Koteshwor,Laptop,260,90000,23400000
+2025,Sep,Koteshwor,Laptop,219,90000,19710000
+2025,Oct,Koteshwor,Laptop,266,90000,23940000
+2025,Nov,Koteshwor,Laptop,270,90000,24300000
+2025,Dec,Koteshwor,Laptop,270,90000,24300000
+2025,Jan,Koteshwor,Smartphone,194,35000,6790000
+2025,Feb,Koteshwor,Smartphone,226,35000,7910000
+2025,Mar,Koteshwor,Smartphone,216,35000,7560000
+2025,Apr,Koteshwor,Smartphone,191,35000,6685000
+2025,May,Koteshwor,Smartphone,190,35000,6650000
+2025,Jun,Koteshwor,Smartphone,194,35000,6790000
+2025,Jul,Koteshwor,Smartphone,202,35000,7070000
+2025,Aug,Koteshwor,Smartphone,203,35000,7105000
+2025,Sep,Koteshwor,Smartphone,221,35000,7735000
+2025,Oct,Koteshwor,Smartphone,237,35000,8295000
+2025,Nov,Koteshwor,Smartphone,200,35000,7000000
+2025,Dec,Koteshwor,Smartphone,224,35000,7840000
+2025,Jan,Koteshwor,Smart TV,145,70000,10150000
+2025,Feb,Koteshwor,Smart TV,141,70000,9870000
+2025,Mar,Koteshwor,Smart TV,144,70000,10080000
+2025,Apr,Koteshwor,Smart TV,134,70000,9380000
+2025,May,Koteshwor,Smart TV,126,70000,8820000
+2025,Jun,Koteshwor,Smart TV,114,70000,7980000
+2025,Jul,Koteshwor,Smart TV,128,70000,8960000
+2025,Aug,Koteshwor,Smart TV,137,70000,9590000
+2025,Sep,Koteshwor,Smart TV,117,70000,8190000
+2025,Oct,Koteshwor,Smart TV,161,70000,11270000
+2025,Nov,Koteshwor,Smart TV,165,70000,11550000
+2025,Dec,Koteshwor,Smart TV,100,70000,7000000
+2025,Jan,Koteshwor,Refrigerator,134,60000,8040000
+2025,Feb,Koteshwor,Refrigerator,117,60000,7020000
+2025,Mar,Koteshwor,Refrigerator,111,60000,6660000
+2025,Apr,Koteshwor,Refrigerator,107,60000,6420000
+2025,May,Koteshwor,Refrigerator,99,60000,5940000
+2025,Jun,Koteshwor,Refrigerator,103,60000,6180000
+2025,Jul,Koteshwor,Refrigerator,138,60000,8280000
+2025,Aug,Koteshwor,Refrigerator,111,60000,6660000
+2025,Sep,Koteshwor,Refrigerator,96,60000,5760000
+2025,Oct,Koteshwor,Refrigerator,105,60000,6300000
+2025,Nov,Koteshwor,Refrigerator,124,60000,7440000
+2025,Dec,Koteshwor,Refrigerator,96,60000,5760000
+2025,Jan,Koteshwor,Washing Machine,195,50000,9750000
+2025,Feb,Koteshwor,Washing Machine,163,50000,8150000
+2025,Mar,Koteshwor,Washing Machine,179,50000,8950000
+2025,Apr,Koteshwor,Washing Machine,157,50000,7850000
+2025,May,Koteshwor,Washing Machine,192,50000,9600000
+2025,Jun,Koteshwor,Washing Machine,143,50000,7150000
+2025,Jul,Koteshwor,Washing Machine,187,50000,9350000
+2025,Aug,Koteshwor,Washing Machine,170,50000,8500000
+2025,Sep,Koteshwor,Washing Machine,175,50000,8750000
+2025,Oct,Koteshwor,Washing Machine,158,50000,7900000
+2025,Nov,Koteshwor,Washing Machine,210,50000,10500000
+2025,Dec,Koteshwor,Washing Machine,165,50000,8250000
+2025,Jan,Maharajgunj,Laptop,105,90000,9450000
+2025,Feb,Maharajgunj,Laptop,88,90000,7920000
+2025,Mar,Maharajgunj,Laptop,123,90000,11070000
+2025,Apr,Maharajgunj,Laptop,110,90000,9900000
+2025,May,Maharajgunj,Laptop,109,90000,9810000
+2025,Jun,Maharajgunj,Laptop,126,90000,11340000
+2025,Jul,Maharajgunj,Laptop,125,90000,11250000
+2025,Aug,Maharajgunj,Laptop,93,90000,8370000
+2025,Sep,Maharajgunj,Laptop,106,90000,9540000
+2025,Oct,Maharajgunj,Laptop,92,90000,8280000
+2025,Nov,Maharajgunj,Laptop,125,90000,11250000
+2025,Dec,Maharajgunj,Laptop,74,90000,6660000
+2025,Jan,Maharajgunj,Smartphone,103,35000,3605000
+2025,Feb,Maharajgunj,Smartphone,75,35000,2625000
+2025,Mar,Maharajgunj,Smartphone,110,35000,3850000
+2025,Apr,Maharajgunj,Smartphone,79,35000,2765000
+2025,May,Maharajgunj,Smartphone,66,35000,2310000
+2025,Jun,Maharajgunj,Smartphone,115,35000,4025000
+2025,Jul,Maharajgunj,Smartphone,75,35000,2625000
+2025,Aug,Maharajgunj,Smartphone,116,35000,4060000
+2025,Sep,Maharajgunj,Smartphone,67,35000,2345000
+2025,Oct,Maharajgunj,Smartphone,95,35000,3325000
+2025,Nov,Maharajgunj,Smartphone,88,35000,3080000
+2025,Dec,Maharajgunj,Smartphone,90,35000,3150000
+2025,Jan,Maharajgunj,Smart TV,265,70000,18550000
+2025,Feb,Maharajgunj,Smart TV,235,70000,16450000
+2025,Mar,Maharajgunj,Smart TV,222,70000,15540000
+2025,Apr,Maharajgunj,Smart TV,235,70000,16450000
+2025,May,Maharajgunj,Smart TV,234,70000,16380000
+2025,Jun,Maharajgunj,Smart TV,225,70000,15750000
+2025,Jul,Maharajgunj,Smart TV,254,70000,17780000
+2025,Aug,Maharajgunj,Smart TV,229,70000,16030000
+2025,Sep,Maharajgunj,Smart TV,256,70000,17920000
+2025,Oct,Maharajgunj,Smart TV,281,70000,19670000
+2025,Nov,Maharajgunj,Smart TV,265,70000,18550000
+2025,Dec,Maharajgunj,Smart TV,253,70000,17710000
+2025,Jan,Maharajgunj,Refrigerator,106,60000,6360000
+2025,Feb,Maharajgunj,Refrigerator,108,60000,6480000
+2025,Mar,Maharajgunj,Refrigerator,78,60000,4680000
+2025,Apr,Maharajgunj,Refrigerator,102,60000,6120000
+2025,May,Maharajgunj,Refrigerator,114,60000,6840000
+2025,Jun,Maharajgunj,Refrigerator,83,60000,4980000
+2025,Jul,Maharajgunj,Refrigerator,78,60000,4680000
+2025,Aug,Maharajgunj,Refrigerator,97,60000,5820000
+2025,Sep,Maharajgunj,Refrigerator,92,60000,5520000
+2025,Oct,Maharajgunj,Refrigerator,95,60000,5700000
+2025,Nov,Maharajgunj,Refrigerator,137,60000,8220000
+2025,Dec,Maharajgunj,Refrigerator,108,60000,6480000
+2025,Jan,Maharajgunj,Washing Machine,206,50000,10300000
+2025,Feb,Maharajgunj,Washing Machine,235,50000,11750000
+2025,Mar,Maharajgunj,Washing Machine,212,50000,10600000
+2025,Apr,Maharajgunj,Washing Machine,245,50000,12250000
+2025,May,Maharajgunj,Washing Machine,241,50000,12050000
+2025,Jun,Maharajgunj,Washing Machine,241,50000,12050000
+2025,Jul,Maharajgunj,Washing Machine,195,50000,9750000
+2025,Aug,Maharajgunj,Washing Machine,206,50000,10300000
+2025,Sep,Maharajgunj,Washing Machine,244,50000,12200000
+2025,Oct,Maharajgunj,Washing Machine,204,50000,10200000
+2025,Nov,Maharajgunj,Washing Machine,253,50000,12650000
+2025,Dec,Maharajgunj,Washing Machine,212,50000,10600000
+2025,Jan,Boudha,Laptop,169,90000,15210000
+2025,Feb,Boudha,Laptop,156,90000,14040000
+2025,Mar,Boudha,Laptop,165,90000,14850000
+2025,Apr,Boudha,Laptop,210,90000,18900000
+2025,May,Boudha,Laptop,212,90000,19080000
+2025,Jun,Boudha,Laptop,188,90000,16920000
+2025,Jul,Boudha,Laptop,208,90000,18720000
+2025,Aug,Boudha,Laptop,197,90000,17730000
+2025,Sep,Boudha,Laptop,172,90000,15480000
+2025,Oct,Boudha,Laptop,175,90000,15750000
+2025,Nov,Boudha,Laptop,203,90000,18270000
+2025,Dec,Boudha,Laptop,183,90000,16470000
+2025,Jan,Boudha,Smartphone,207,35000,7245000
+2025,Feb,Boudha,Smartphone,209,35000,7315000
+2025,Mar,Boudha,Smartphone,192,35000,6720000
+2025,Apr,Boudha,Smartphone,180,35000,6300000
+2025,May,Boudha,Smartphone,160,35000,5600000
+2025,Jun,Boudha,Smartphone,167,35000,5845000
+2025,Jul,Boudha,Smartphone,159,35000,5565000
+2025,Aug,Boudha,Smartphone,166,35000,5810000
+2025,Sep,Boudha,Smartphone,198,35000,6930000
+2025,Oct,Boudha,Smartphone,196,35000,6860000
+2025,Nov,Boudha,Smartphone,195,35000,6825000
+2025,Dec,Boudha,Smartphone,167,35000,5845000
+2025,Jan,Boudha,Smart TV,226,70000,15820000
+2025,Feb,Boudha,Smart TV,256,70000,17920000
+2025,Mar,Boudha,Smart TV,236,70000,16520000
+2025,Apr,Boudha,Smart TV,224,70000,15680000
+2025,May,Boudha,Smart TV,222,70000,15540000
+2025,Jun,Boudha,Smart TV,213,70000,14910000
+2025,Jul,Boudha,Smart TV,207,70000,14490000
+2025,Aug,Boudha,Smart TV,231,70000,16170000
+2025,Sep,Boudha,Smart TV,230,70000,16100000
+2025,Oct,Boudha,Smart TV,214,70000,14980000
+2025,Nov,Boudha,Smart TV,257,70000,17990000
+2025,Dec,Boudha,Smart TV,202,70000,14140000
+2025,Jan,Boudha,Refrigerator,87,60000,5220000
+2025,Feb,Boudha,Refrigerator,118,60000,7080000
+2025,Mar,Boudha,Refrigerator,88,60000,5280000
+2025,Apr,Boudha,Refrigerator,128,60000,7680000
+2025,May,Boudha,Refrigerator,121,60000,7260000
+2025,Jun,Boudha,Refrigerator,105,60000,6300000
+2025,Jul,Boudha,Refrigerator,116,60000,6960000
+2025,Aug,Boudha,Refrigerator,82,60000,4920000
+2025,Sep,Boudha,Refrigerator,102,60000,6120000
+2025,Oct,Boudha,Refrigerator,112,60000,6720000
+2025,Nov,Boudha,Refrigerator,126,60000,7560000
+2025,Dec,Boudha,Refrigerator,107,60000,6420000
+2025,Jan,Boudha,Washing Machine,201,50000,10050000
+2025,Feb,Boudha,Washing Machine,220,50000,11000000
+2025,Mar,Boudha,Washing Machine,240,50000,12000000
+2025,Apr,Boudha,Washing Machine,245,50000,12250000
+2025,May,Boudha,Washing Machine,185,50000,9250000
+2025,Jun,Boudha,Washing Machine,228,50000,11400000
+2025,Jul,Boudha,Washing Machine,231,50000,11550000
+2025,Aug,Boudha,Washing Machine,192,50000,9600000
+2025,Sep,Boudha,Washing Machine,228,50000,11400000
+2025,Oct,Boudha,Washing Machine,251,50000,12550000
+2025,Nov,Boudha,Washing Machine,229,50000,11450000
+2025,Dec,Boudha,Washing Machine,233,50000,11650000
+2025,Jan,Kalanki,Laptop,167,90000,15030000
+2025,Feb,Kalanki,Laptop,159,90000,14310000
+2025,Mar,Kalanki,Laptop,139,90000,12510000
+2025,Apr,Kalanki,Laptop,125,90000,11250000
+2025,May,Kalanki,Laptop,136,90000,12240000
+2025,Jun,Kalanki,Laptop,145,90000,13050000
+2025,Jul,Kalanki,Laptop,128,90000,11520000
+2025,Aug,Kalanki,Laptop,147,90000,13230000
+2025,Sep,Kalanki,Laptop,118,90000,10620000
+2025,Oct,Kalanki,Laptop,174,90000,15660000
+2025,Nov,Kalanki,Laptop,184,90000,16560000
+2025,Dec,Kalanki,Laptop,164,90000,14760000
+2025,Jan,Kalanki,Smartphone,149,35000,5215000
+2025,Feb,Kalanki,Smartphone,165,35000,5775000
+2025,Mar,Kalanki,Smartphone,128,35000,4480000
+2025,Apr,Kalanki,Smartphone,149,35000,5215000
+2025,May,Kalanki,Smartphone,175,35000,6125000
+2025,Jun,Kalanki,Smartphone,123,35000,4305000
+2025,Jul,Kalanki,Smartphone,172,35000,6020000
+2025,Aug,Kalanki,Smartphone,157,35000,5495000
+2025,Sep,Kalanki,Smartphone,136,35000,4760000
+2025,Oct,Kalanki,Smartphone,180,35000,6300000
+2025,Nov,Kalanki,Smartphone,167,35000,5845000
+2025,Dec,Kalanki,Smartphone,149,35000,5215000
+2025,Jan,Kalanki,Smart TV,217,70000,15190000
+2025,Feb,Kalanki,Smart TV,214,70000,14980000
+2025,Mar,Kalanki,Smart TV,228,70000,15960000
+2025,Apr,Kalanki,Smart TV,253,70000,17710000
+2025,May,Kalanki,Smart TV,215,70000,15050000
+2025,Jun,Kalanki,Smart TV,239,70000,16730000
+2025,Jul,Kalanki,Smart TV,254,70000,17780000
+2025,Aug,Kalanki,Smart TV,264,70000,18480000
+2025,Sep,Kalanki,Smart TV,238,70000,16660000
+2025,Oct,Kalanki,Smart TV,273,70000,19110000
+2025,Nov,Kalanki,Smart TV,215,70000,15050000
+2025,Dec,Kalanki,Smart TV,243,70000,17010000
+2025,Jan,Kalanki,Refrigerator,163,60000,9780000
+2025,Feb,Kalanki,Refrigerator,133,60000,7980000
+2025,Mar,Kalanki,Refrigerator,139,60000,8340000
+2025,Apr,Kalanki,Refrigerator,191,60000,11460000
+2025,May,Kalanki,Refrigerator,155,60000,9300000
+2025,Jun,Kalanki,Refrigerator,188,60000,11280000
+2025,Jul,Kalanki,Refrigerator,185,60000,11100000
+2025,Aug,Kalanki,Refrigerator,183,60000,10980000
+2025,Sep,Kalanki,Refrigerator,151,60000,9060000
+2025,Oct,Kalanki,Refrigerator,157,60000,9420000
+2025,Nov,Kalanki,Refrigerator,145,60000,8700000
+2025,Dec,Kalanki,Refrigerator,147,60000,8820000
+2025,Jan,Kalanki,Washing Machine,255,50000,12750000
+2025,Feb,Kalanki,Washing Machine,200,50000,10000000
+2025,Mar,Kalanki,Washing Machine,200,50000,10000000
+2025,Apr,Kalanki,Washing Machine,241,50000,12050000
+2025,May,Kalanki,Washing Machine,226,50000,11300000
+2025,Jun,Kalanki,Washing Machine,247,50000,12350000
+2025,Jul,Kalanki,Washing Machine,199,50000,9950000
+2025,Aug,Kalanki,Washing Machine,243,50000,12150000
+2025,Sep,Kalanki,Washing Machine,229,50000,11450000
+2025,Oct,Kalanki,Washing Machine,254,50000,12700000
+2025,Nov,Kalanki,Washing Machine,213,50000,10650000
+2025,Dec,Kalanki,Washing Machine,203,50000,10150000
+2025,Jan,Bhaktapur,Laptop,248,90000,22320000
+2025,Feb,Bhaktapur,Laptop,278,90000,25020000
+2025,Mar,Bhaktapur,Laptop,253,90000,22770000
+2025,Apr,Bhaktapur,Laptop,228,90000,20520000
+2025,May,Bhaktapur,Laptop,234,90000,21060000
+2025,Jun,Bhaktapur,Laptop,251,90000,22590000
+2025,Jul,Bhaktapur,Laptop,273,90000,24570000
+2025,Aug,Bhaktapur,Laptop,256,90000,23040000
+2025,Sep,Bhaktapur,Laptop,245,90000,22050000
+2025,Oct,Bhaktapur,Laptop,241,90000,21690000
+2025,Nov,Bhaktapur,Laptop,287,90000,25830000
+2025,Dec,Bhaktapur,Laptop,252,90000,22680000
+2025,Jan,Bhaktapur,Smartphone,146,35000,5110000
+2025,Feb,Bhaktapur,Smartphone,120,35000,4200000
+2025,Mar,Bhaktapur,Smartphone,126,35000,4410000
+2025,Apr,Bhaktapur,Smartphone,143,35000,5005000
+2025,May,Bhaktapur,Smartphone,142,35000,4970000
+2025,Jun,Bhaktapur,Smartphone,124,35000,4340000
+2025,Jul,Bhaktapur,Smartphone,129,35000,4515000
+2025,Aug,Bhaktapur,Smartphone,158,35000,5530000
+2025,Sep,Bhaktapur,Smartphone,134,35000,4690000
+2025,Oct,Bhaktapur,Smartphone,139,35000,4865000
+2025,Nov,Bhaktapur,Smartphone,118,35000,4130000
+2025,Dec,Bhaktapur,Smartphone,116,35000,4060000
+2025,Jan,Bhaktapur,Smart TV,111,70000,7770000
+2025,Feb,Bhaktapur,Smart TV,128,70000,8960000
+2025,Mar,Bhaktapur,Smart TV,108,70000,7560000
+2025,Apr,Bhaktapur,Smart TV,144,70000,10080000
+2025,May,Bhaktapur,Smart TV,142,70000,9940000
+2025,Jun,Bhaktapur,Smart TV,121,70000,8470000
+2025,Jul,Bhaktapur,Smart TV,144,70000,10080000
+2025,Aug,Bhaktapur,Smart TV,121,70000,8470000
+2025,Sep,Bhaktapur,Smart TV,107,70000,7490000
+2025,Oct,Bhaktapur,Smart TV,121,70000,8470000
+2025,Nov,Bhaktapur,Smart TV,162,70000,11340000
+2025,Dec,Bhaktapur,Smart TV,147,70000,10290000
+2025,Jan,Bhaktapur,Refrigerator,79,60000,4740000
+2025,Feb,Bhaktapur,Refrigerator,69,60000,4140000
+2025,Mar,Bhaktapur,Refrigerator,122,60000,7320000
+2025,Apr,Bhaktapur,Refrigerator,67,60000,4020000
+2025,May,Bhaktapur,Refrigerator,120,60000,7200000
+2025,Jun,Bhaktapur,Refrigerator,86,60000,5160000
+2025,Jul,Bhaktapur,Refrigerator,69,60000,4140000
+2025,Aug,Bhaktapur,Refrigerator,97,60000,5820000
+2025,Sep,Bhaktapur,Refrigerator,80,60000,4800000
+2025,Oct,Bhaktapur,Refrigerator,92,60000,5520000
+2025,Nov,Bhaktapur,Refrigerator,117,60000,7020000
+2025,Dec,Bhaktapur,Refrigerator,96,60000,5760000
+2025,Jan,Bhaktapur,Washing Machine,138,50000,6900000
+2025,Feb,Bhaktapur,Washing Machine,112,50000,5600000
+2025,Mar,Bhaktapur,Washing Machine,150,50000,7500000
+2025,Apr,Bhaktapur,Washing Machine,163,50000,8150000
+2025,May,Bhaktapur,Washing Machine,160,50000,8000000
+2025,Jun,Bhaktapur,Washing Machine,140,50000,7000000
+2025,Jul,Bhaktapur,Washing Machine,140,50000,7000000
+2025,Aug,Bhaktapur,Washing Machine,134,50000,6700000
+2025,Sep,Bhaktapur,Washing Machine,119,50000,5950000
+2025,Oct,Bhaktapur,Washing Machine,164,50000,8200000
+2025,Nov,Bhaktapur,Washing Machine,144,50000,7200000
+2025,Dec,Bhaktapur,Washing Machine,155,50000,7750000
+2025,Jan,Lalitpur,Laptop,166,90000,14940000
+2025,Feb,Lalitpur,Laptop,160,90000,14400000
+2025,Mar,Lalitpur,Laptop,160,90000,14400000
+2025,Apr,Lalitpur,Laptop,196,90000,17640000
+2025,May,Lalitpur,Laptop,181,90000,16290000
+2025,Jun,Lalitpur,Laptop,176,90000,15840000
+2025,Jul,Lalitpur,Laptop,181,90000,16290000
+2025,Aug,Lalitpur,Laptop,180,90000,16200000
+2025,Sep,Lalitpur,Laptop,183,90000,16470000
+2025,Oct,Lalitpur,Laptop,219,90000,19710000
+2025,Nov,Lalitpur,Laptop,210,90000,18900000
+2025,Dec,Lalitpur,Laptop,157,90000,14130000
+2025,Jan,Lalitpur,Smartphone,258,35000,9030000
+2025,Feb,Lalitpur,Smartphone,223,35000,7805000
+2025,Mar,Lalitpur,Smartphone,220,35000,7700000
+2025,Apr,Lalitpur,Smartphone,242,35000,8470000
+2025,May,Lalitpur,Smartphone,263,35000,9205000
+2025,Jun,Lalitpur,Smartphone,238,35000,8330000
+2025,Jul,Lalitpur,Smartphone,268,35000,9380000
+2025,Aug,Lalitpur,Smartphone,272,35000,9520000
+2025,Sep,Lalitpur,Smartphone,223,35000,7805000
+2025,Oct,Lalitpur,Smartphone,242,35000,8470000
+2025,Nov,Lalitpur,Smartphone,239,35000,8365000
+2025,Dec,Lalitpur,Smartphone,229,35000,8015000
+2025,Jan,Lalitpur,Smart TV,215,70000,15050000
+2025,Feb,Lalitpur,Smart TV,195,70000,13650000
+2025,Mar,Lalitpur,Smart TV,214,70000,14980000
+2025,Apr,Lalitpur,Smart TV,198,70000,13860000
+2025,May,Lalitpur,Smart TV,204,70000,14280000
+2025,Jun,Lalitpur,Smart TV,216,70000,15120000
+2025,Jul,Lalitpur,Smart TV,202,70000,14140000
+2025,Aug,Lalitpur,Smart TV,242,70000,16940000
+2025,Sep,Lalitpur,Smart TV,246,70000,17220000
+2025,Oct,Lalitpur,Smart TV,201,70000,14070000
+2025,Nov,Lalitpur,Smart TV,225,70000,15750000
+2025,Dec,Lalitpur,Smart TV,238,70000,16660000
+2025,Jan,Lalitpur,Refrigerator,196,60000,11760000
+2025,Feb,Lalitpur,Refrigerator,193,60000,11580000
+2025,Mar,Lalitpur,Refrigerator,231,60000,13860000
+2025,Apr,Lalitpur,Refrigerator,224,60000,13440000
+2025,May,Lalitpur,Refrigerator,243,60000,14580000
+2025,Jun,Lalitpur,Refrigerator,190,60000,11400000
+2025,Jul,Lalitpur,Refrigerator,195,60000,11700000
+2025,Aug,Lalitpur,Refrigerator,249,60000,14940000
+2025,Sep,Lalitpur,Refrigerator,238,60000,14280000
+2025,Oct,Lalitpur,Refrigerator,254,60000,15240000
+2025,Nov,Lalitpur,Refrigerator,215,60000,12900000
+2025,Dec,Lalitpur,Refrigerator,200,60000,12000000
+2025,Jan,Lalitpur,Washing Machine,185,50000,9250000
+2025,Feb,Lalitpur,Washing Machine,184,50000,9200000
+2025,Mar,Lalitpur,Washing Machine,167,50000,8350000
+2025,Apr,Lalitpur,Washing Machine,209,50000,10450000
+2025,May,Lalitpur,Washing Machine,179,50000,8950000
+2025,Jun,Lalitpur,Washing Machine,211,50000,10550000
+2025,Jul,Lalitpur,Washing Machine,157,50000,7850000
+2025,Aug,Lalitpur,Washing Machine,164,50000,8200000
+2025,Sep,Lalitpur,Washing Machine,178,50000,8900000
+2025,Oct,Lalitpur,Washing Machine,164,50000,8200000
+2025,Nov,Lalitpur,Washing Machine,188,50000,9400000
+2025,Dec,Lalitpur,Washing Machine,170,50000,8500000
